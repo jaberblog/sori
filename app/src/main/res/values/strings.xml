@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تشخیص اجسام</string>
+    <string name="camera_preview">نمایش دوربین</string>
+    <string name="detect_button">تشخیص</string>
+    <string name="retest_button">تست مجدد</string>
+    <string name="waiting">در حال آماده‌سازی...</string>
+    <string name="analyzing">در حال تحلیل تصویر...</string>
+    <string name="permission_required">دسترسی به دوربین لازم است</string>
+    <string name="error_occurred">خطا رخ داد</string>
+</resources>
